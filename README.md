@@ -13,5 +13,5 @@ In addition, the project is responsive for both Desktop and Mobile.</p>
   <li>CSS</li>
   <li>JavaScript</li>
 </ul>
-<a href="">CLICK HERE TO SEE THE PROJECT!</a>
+<a href="https://crixsanti.github.io/burger-project/">CLICK HERE TO SEE THE PROJECT!</a>
 <img src="https://raw.githubusercontent.com/crixsanti/burger-project/refs/heads/main/burger-project.png">

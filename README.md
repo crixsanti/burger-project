@@ -1,5 +1,5 @@
 <h1 align="center">Burger Project</h1>
-<p>This project was made using the following technologies: HTML, CSS and JavaScript.
+<p align="center">This project was made using the following technologies: HTML, CSS and JavaScript.
 <br>
 It was a fundamental work for the beginning of my career, as I used and learned the main concepts of forEach, .map, .reduce and .filter.
 <br>
